@@ -1,0 +1,83 @@
+#img-aboutme {
+
+  width: 450px;
+  bottom: 45px;
+  display: block
+  translate(-50%, -50%)
+  border: 5px solid rgb(255, 255, 255);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%)
+
+}
+body {
+  background-color: #7f8df8;
+
+}
+h1 {
+  color: rgb(255, 255, 255);
+  padding: 5px;
+  margin: 5px;
+  font-size: 50px;
+}
+.nav {
+  position: relative;bottom: 60px;
+}
+
+#nav1 {
+  color: rgb(255, 255, 255);
+  right: 380px;
+  position: absolute;
+  position: fixed
+
+}
+#nav2 {
+  color: rgb(255, 255, 255);
+  right: 290px;
+  position: absolute;
+  position: fixed
+}
+#nav3 {
+  color: rgb(255, 255, 255);
+   right: 228px;
+  position: absolute;
+  position: fixed
+}
+#nav4 {
+  color: rgb(255, 255, 255);
+  right: 124px;
+  position: absolute;
+  position: fixed
+
+}
+#nav5 {
+  color: rgb(255, 255, 255);
+  right: 36px;
+  position: absolute;
+  position: fixed
+
+}
+
+#Danara {
+  color: rgb(255, 255, 255);
+  font-size: 90px;
+  left: 225px;
+  position: relative;
+}
+#Guerrero {
+  color: rgb(255, 255, 255);
+  font-size: 90px;
+  left: 990px;
+  position: relative;
+}
+#presentación {
+  color: rgb(255, 255, 255);
+  
+  position: relative;
+}
+
+
+
+
+
